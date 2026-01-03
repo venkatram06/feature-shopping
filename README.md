@@ -17,7 +17,7 @@ Feature Shopping is a simple e-commerce website built using **HTML, CSS, and Jav
 - GitHub Pages (for hosting)
 
 ## 🔹 Live Demo
-👉 https://YOUR_GITHUB_USERNAME.github.io/feature-shopping/
+👉 https://venkatram06.github.io/feature-shopping/
 
 ## 🔹 How to Use
 1. Open the website
